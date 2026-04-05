@@ -10,4 +10,4 @@ Também é possível inscrever alunos em diferentes Bootcamps e acompanhar o pro
 Consegui aplicar algumas melhorias no projeto, foram elas:
 
  - Melhorar a interface com o usuário na classe Main;
- - Implementar a classe TipoConteudo para obter o tipo do curso/mentoria sendo feita;
+ - Implementar o enum TipoConteudo para obter o tipo do curso/mentoria sendo feita;
